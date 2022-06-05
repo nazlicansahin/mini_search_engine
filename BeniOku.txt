@@ -1,0 +1,1 @@
+Yazdığım bütün dosyalar için yorum satırı şeklinde printf ekledim hepsini deneyim kontrol edebilirsiniz.
